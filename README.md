@@ -5,4 +5,4 @@ Generic Packaging System Assignment 5
 
 C++ program that uses a Generic Packaging System using C++ templates to manage different types and sizes of packages in a flexible and reusable way  
   
-Run the program and select choices based on the number next to the desired choice.  
+Run the program 
